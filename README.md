@@ -11,7 +11,7 @@ To build advanced SQL query logic using:
 
 ##  Files
 
-- `subqueries_nested.sql` — Main SQL file with 15 examples
+- `subqueries.sql` — Main SQL file
   - 5 Subqueries in `SELECT`
   - 5 Subqueries in `WHERE`
   - 5 Subqueries in `FROM`
